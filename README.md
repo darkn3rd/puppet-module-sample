@@ -1,6 +1,6 @@
 # Puppet Module Sample - Superfoo
 
-This is a small snippet of an imaginary component called SuperFoo.  Though this is a very simple modules that doesn't do anything, it can act as a template for more complex modules.
+This is a small snippet of an imaginary component called SuperFoo.  Though this is a very simple module that doesn't do anything, it can act as a template for more complex modules.
 
 
 This code demonstrates two best practices in the Puppet Community (around 2014):
