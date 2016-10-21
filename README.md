@@ -1,7 +1,7 @@
 # Superfoo Example
 
-Thsi is a small snippet of an imaginary component called SuperFoo.  This code can act as a template.  This code demonstrates two best practices:
- 
+This is a small snippet of an imaginary component called SuperFoo.  This code can act as a template.  This code demonstrates two best practices:
+
  1. Parameterization - containing parameters in one file for whole module
     - consistent parameters included in all modules for packages, service settings, etc.
     - all potential parameters that can be changed by Hiera or Site Manafest nodes.
